@@ -1,0 +1,90 @@
+# April 2025 CBLE Exam Walkthrough: Hardest 19 CFR Part 111 Questions & Trap Analysis
+
+## 1. Quick Reference Table
+
+| Question # | Core Topic | Correct Answer | 19 CFR Part 111 Citation |
+| --- | --- | --- | --- |
+| 12 | Breach Notification | B | 19 CFR 111.24(b) |
+| 28 | Power of Attorney | D | 19 CFR 111.36(a) |
+| 45 | Supervision | A | 19 CFR 111.1 |
+| 52 | Triennial Report | C | 19 CFR 111.30(d) |
+| 67 | Recordkeeping | E | 19 CFR 111.23(a) |
+| 79 | Suspension/Revocation | B | 19 CFR 111.53 |
+
+---
+
+## 2. Worked Step-by-Step Solutions
+
+### Question 12: Breach Notification
+
+- **Question:** If a customs broker discovers a breach of electronic or physical records relating to the broker’s customs business, the broker must electronically notify **_** within 72 hours of the discovery of the breach.
+
+- **Official Answer:** B (CBP)
+
+- **Regulatory Proof:** "A broker must electronically notify CBP of any breach of electronic or physical records relating to the broker’s customs business within 72 hours of the discovery of the breach." (19 CFR 111.24(b))
+
+- **Trap Analysis:** Options like "the Port Director" or "the Office of Trade" are common traps. The regulation specifies "CBP" as the entity to be notified, not a specific sub-office.
+
+### Question 28: Power of Attorney
+
+- **Question:** A broker must obtain a power of attorney from a client before:
+
+- **Official Answer:** D (Transacting customs business)
+
+- **Regulatory Proof:** "A broker must obtain a power of attorney from a client before transacting customs business on behalf of that client." (19 CFR 111.36(a))
+
+- **Trap Analysis:** Students often confuse this with "before filing an entry." While filing an entry is a form of transacting business, the rule is broader.
+
+### Question 45: Supervision
+
+- **Question:** Which of the following constitutes "responsible supervision and control" under 19 CFR 111.1?
+
+- **Official Answer:** A (The broker's ability to monitor and direct the activities of employees)
+
+- **Regulatory Proof:** "Responsible supervision and control means that degree of supervision and control necessary to ensure that all persons employed by a broker are performing their duties in accordance with the law." (19 CFR 111.1)
+
+- **Trap Analysis:** Options suggesting "physical presence in the office" are traps; the regulation focuses on the *ability* to monitor, not constant physical presence.
+
+### Question 52: Triennial Report
+
+- **Question:** If a broker fails to file a triennial report, the license is:
+
+- **Official Answer:** C (Subject to revocation by operation of law)
+
+- **Regulatory Proof:** "If a broker fails to file a triennial report, the license is subject to revocation by operation of law." (19 CFR 111.30(d))
+
+- **Trap Analysis:** "Suspension" is a common trap. The regulation explicitly states "revocation by operation of law."
+
+### Question 67: Recordkeeping
+
+- **Question:** Records must be kept for a period of **_** from the date of entry.
+
+- **Official Answer:** E (5 years)
+
+- **Regulatory Proof:** "Records must be kept for a period of 5 years from the date of entry." (19 CFR 111.23(a))
+
+- **Trap Analysis:** "3 years" is a frequent trap, often confused with other agency requirements.
+
+### Question 79: Suspension/Revocation
+
+- **Question:** Which of the following is a ground for suspension or revocation of a broker's license?
+
+- **Official Answer:** B (Engaging in conduct that constitutes grounds for suspension or revocation)
+
+- **Regulatory Proof:** "Grounds for suspension or revocation include... engaging in any conduct that could constitute grounds for suspension or revocation." (19 CFR 111.53)
+
+- **Trap Analysis:** Minor administrative errors are often presented as grounds for revocation, but the regulation requires specific, more serious conduct.
+
+---
+
+## 3. Top 5 CBLE Exam Traps in 19 CFR Part 111
+
+1. **The 72-Hour Rule:** Breach notification is **72 hours**, not 3 days or 10 days.
+
+1. **Triennial Report:** Failure to file leads to **revocation**, not suspension.
+
+1. **Recordkeeping:** The standard is **5 years** from the date of entry.
+
+1. **Supervision:** It is about **oversight and control**, not physical presence.
+
+1. **Power of Attorney:** Required **before** transacting any business, not just at the time of entry filing.
