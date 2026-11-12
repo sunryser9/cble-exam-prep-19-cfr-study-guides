@@ -21,7 +21,7 @@ Reading static guides helps, but passing the CBLE requires drilling **real CBP e
 * **Interactive Past-Exam Drills**: Practice with recent CBLE exams and get step-by-step explanations of why tempting distractors fail.
 * **Employer-Reimbursable Prep**: Built for working trade compliance professionals and logistics specialists preparing for the upcoming CBP exam window.
 
-👉 **[Request Early Access / Reserve a Study Seat Here](#)** *(Replace `#` with your Gumroad, Topmate, or Google Form link)*
+👉 **[Get Full Access to the Interactive CBLE AI Study Workspace on Gumroad →]   https://sunriser.gumroad.com/l/kgqbg
 
 ---
 
