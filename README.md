@@ -31,3 +31,6 @@ Reading static guides helps, but passing the CBLE requires drilling **real CBP e
 `CBLE Prep` · `U.S. Customs Broker License Exam` · `19 CFR Part 111` · `CBP Past Exam Solutions` · `Customs Compliance Study Guide` · `Trade Compliance Certification`
 * 📊 **[CBLE Prep Compared: Self-Study vs. $1,500 ST&R Course vs. $79 AI Tutor](best-cble-exam-prep-courses-comparison.md)**
 
+* * 📝 **[CBLE Past Exam Questions With Explained Answers (19 CFR Citations)](cble-past-exam-questions-explained.md)**
+
+
