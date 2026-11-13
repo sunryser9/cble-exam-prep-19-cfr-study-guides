@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="EO6aKFuHIVaCDKQ_rnsPu1SQgZ8SCxW3nKh-FyloJ-E" />
+
 # U.S. Customs Broker License Exam (CBLE) — Free Citation-Backed Study Guides (19 CFR)
 
 Pass the U.S. Customs Broker License Exam (~12% pass rate) without memorizing outdated summaries. Every study guide, worked past-paper walkthrough, and trap breakdown in this repository is generated directly from official **U.S. Customs and Border Protection (CBP)** past exams, answer keys, and **Title 19 of the Code of Federal Regulations (19 CFR)** with **exact subsection citations**.
